@@ -1,0 +1,9 @@
+C:\Users\student\Documents\Amar\EmpSys\EmpSys\obj\Debug\EmpSys.csproj.AssemblyReference.cache
+C:\Users\student\Documents\Amar\EmpSys\EmpSys\obj\Debug\EmpSys.csproj.CoreCompileInputs.cache
+G:\!C#\EmpSys\EmpSys\EmpSys\bin\Debug\EmpSys.exe.config
+G:\!C#\EmpSys\EmpSys\EmpSys\bin\Debug\EmpSys.exe
+G:\!C#\EmpSys\EmpSys\EmpSys\bin\Debug\EmpSys.pdb
+G:\!C#\EmpSys\EmpSys\EmpSys\obj\Debug\EmpSys.csproj.AssemblyReference.cache
+G:\!C#\EmpSys\EmpSys\EmpSys\obj\Debug\EmpSys.csproj.CoreCompileInputs.cache
+G:\!C#\EmpSys\EmpSys\EmpSys\obj\Debug\EmpSys.exe
+G:\!C#\EmpSys\EmpSys\EmpSys\obj\Debug\EmpSys.pdb
