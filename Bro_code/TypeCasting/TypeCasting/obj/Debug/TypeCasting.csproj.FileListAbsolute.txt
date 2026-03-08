@@ -1,7 +1,0 @@
-G:\!CSharp\Bro_code\TypeCasting\TypeCasting\obj\Debug\TypeCasting.csproj.AssemblyReference.cache
-G:\!CSharp\Bro_code\TypeCasting\TypeCasting\obj\Debug\TypeCasting.csproj.CoreCompileInputs.cache
-G:\!CSharp\Bro_code\TypeCasting\TypeCasting\bin\Debug\TypeCasting.exe.config
-G:\!CSharp\Bro_code\TypeCasting\TypeCasting\bin\Debug\TypeCasting.exe
-G:\!CSharp\Bro_code\TypeCasting\TypeCasting\bin\Debug\TypeCasting.pdb
-G:\!CSharp\Bro_code\TypeCasting\TypeCasting\obj\Debug\TypeCasting.exe
-G:\!CSharp\Bro_code\TypeCasting\TypeCasting\obj\Debug\TypeCasting.pdb

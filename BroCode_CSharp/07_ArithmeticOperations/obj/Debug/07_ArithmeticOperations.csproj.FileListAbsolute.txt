@@ -1,0 +1,7 @@
+G:\!CSharp\BroCode_CSharp\07_ArithmeticOperations\bin\Debug\07_ArithmeticOperations.exe.config
+G:\!CSharp\BroCode_CSharp\07_ArithmeticOperations\bin\Debug\07_ArithmeticOperations.exe
+G:\!CSharp\BroCode_CSharp\07_ArithmeticOperations\bin\Debug\07_ArithmeticOperations.pdb
+G:\!CSharp\BroCode_CSharp\07_ArithmeticOperations\obj\Debug\07_ArithmeticOperations.csproj.AssemblyReference.cache
+G:\!CSharp\BroCode_CSharp\07_ArithmeticOperations\obj\Debug\07_ArithmeticOperations.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\07_ArithmeticOperations\obj\Debug\07_ArithmeticOperations.exe
+G:\!CSharp\BroCode_CSharp\07_ArithmeticOperations\obj\Debug\07_ArithmeticOperations.pdb

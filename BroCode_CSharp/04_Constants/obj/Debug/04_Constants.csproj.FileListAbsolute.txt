@@ -1,0 +1,7 @@
+G:\!CSharp\BroCode_CSharp\04_Constants\bin\Debug\04_Constants.exe.config
+G:\!CSharp\BroCode_CSharp\04_Constants\bin\Debug\04_Constants.exe
+G:\!CSharp\BroCode_CSharp\04_Constants\bin\Debug\04_Constants.pdb
+G:\!CSharp\BroCode_CSharp\04_Constants\obj\Debug\04_Constants.csproj.AssemblyReference.cache
+G:\!CSharp\BroCode_CSharp\04_Constants\obj\Debug\04_Constants.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\04_Constants\obj\Debug\04_Constants.exe
+G:\!CSharp\BroCode_CSharp\04_Constants\obj\Debug\04_Constants.pdb

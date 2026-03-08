@@ -1,0 +1,7 @@
+G:\!CSharp\BroCode_CSharp\03_Variables\bin\Debug\03_Variables.exe.config
+G:\!CSharp\BroCode_CSharp\03_Variables\bin\Debug\03_Variables.exe
+G:\!CSharp\BroCode_CSharp\03_Variables\bin\Debug\03_Variables.pdb
+G:\!CSharp\BroCode_CSharp\03_Variables\obj\Debug\03_Variables.csproj.AssemblyReference.cache
+G:\!CSharp\BroCode_CSharp\03_Variables\obj\Debug\03_Variables.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\03_Variables\obj\Debug\03_Variables.exe
+G:\!CSharp\BroCode_CSharp\03_Variables\obj\Debug\03_Variables.pdb

@@ -1,7 +1,0 @@
-G:\!CSharp\Bro_code\Variables\Variables\bin\Debug\Variables.exe.config
-G:\!CSharp\Bro_code\Variables\Variables\bin\Debug\Variables.exe
-G:\!CSharp\Bro_code\Variables\Variables\bin\Debug\Variables.pdb
-G:\!CSharp\Bro_code\Variables\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
-G:\!CSharp\Bro_code\Variables\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
-G:\!CSharp\Bro_code\Variables\Variables\obj\Debug\Variables.exe
-G:\!CSharp\Bro_code\Variables\Variables\obj\Debug\Variables.pdb
