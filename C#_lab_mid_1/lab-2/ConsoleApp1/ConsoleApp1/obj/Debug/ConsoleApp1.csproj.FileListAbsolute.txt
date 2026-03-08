@@ -5,3 +5,10 @@ D:\Fall-25-26\OOP2-HH\lab\lab-2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.cs
 D:\Fall-25-26\OOP2-HH\lab\lab-2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 D:\Fall-25-26\OOP2-HH\lab\lab-2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 D:\Fall-25-26\OOP2-HH\lab\lab-2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+G:\!CSharp\C#_lab_mid_1\lab-2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\!CSharp\C#_lab_mid_1\lab-2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\!CSharp\C#_lab_mid_1\lab-2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\!CSharp\C#_lab_mid_1\lab-2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+G:\!CSharp\C#_lab_mid_1\lab-2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\!CSharp\C#_lab_mid_1\lab-2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\!CSharp\C#_lab_mid_1\lab-2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

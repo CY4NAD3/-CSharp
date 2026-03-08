@@ -7,3 +7,10 @@ G:\!C#\EmpSys\EmpSys\EmpSys\obj\Debug\EmpSys.csproj.AssemblyReference.cache
 G:\!C#\EmpSys\EmpSys\EmpSys\obj\Debug\EmpSys.csproj.CoreCompileInputs.cache
 G:\!C#\EmpSys\EmpSys\EmpSys\obj\Debug\EmpSys.exe
 G:\!C#\EmpSys\EmpSys\EmpSys\obj\Debug\EmpSys.pdb
+G:\!CSharp\C#_lab_mid_1\EmpSys\EmpSys\EmpSys\bin\Debug\EmpSys.exe.config
+G:\!CSharp\C#_lab_mid_1\EmpSys\EmpSys\EmpSys\bin\Debug\EmpSys.exe
+G:\!CSharp\C#_lab_mid_1\EmpSys\EmpSys\EmpSys\bin\Debug\EmpSys.pdb
+G:\!CSharp\C#_lab_mid_1\EmpSys\EmpSys\EmpSys\obj\Debug\EmpSys.csproj.AssemblyReference.cache
+G:\!CSharp\C#_lab_mid_1\EmpSys\EmpSys\EmpSys\obj\Debug\EmpSys.csproj.CoreCompileInputs.cache
+G:\!CSharp\C#_lab_mid_1\EmpSys\EmpSys\EmpSys\obj\Debug\EmpSys.exe
+G:\!CSharp\C#_lab_mid_1\EmpSys\EmpSys\EmpSys\obj\Debug\EmpSys.pdb
