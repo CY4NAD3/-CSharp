@@ -1,0 +1,7 @@
+G:\!CSharp\BroCode_CSharp\14_LogicalOperators\bin\Debug\14_LogicalOperators.exe.config
+G:\!CSharp\BroCode_CSharp\14_LogicalOperators\bin\Debug\14_LogicalOperators.exe
+G:\!CSharp\BroCode_CSharp\14_LogicalOperators\bin\Debug\14_LogicalOperators.pdb
+G:\!CSharp\BroCode_CSharp\14_LogicalOperators\obj\Debug\14_LogicalOperators.csproj.AssemblyReference.cache
+G:\!CSharp\BroCode_CSharp\14_LogicalOperators\obj\Debug\14_LogicalOperators.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\14_LogicalOperators\obj\Debug\14_LogicalOperators.exe
+G:\!CSharp\BroCode_CSharp\14_LogicalOperators\obj\Debug\14_LogicalOperators.pdb

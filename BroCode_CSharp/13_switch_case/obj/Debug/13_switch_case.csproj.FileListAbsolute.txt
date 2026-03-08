@@ -1,0 +1,7 @@
+G:\!CSharp\BroCode_CSharp\13_switch_case\obj\Debug\13_switch_case.csproj.AssemblyReference.cache
+G:\!CSharp\BroCode_CSharp\13_switch_case\obj\Debug\13_switch_case.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\13_switch_case\bin\Debug\13_switch_case.exe.config
+G:\!CSharp\BroCode_CSharp\13_switch_case\bin\Debug\13_switch_case.exe
+G:\!CSharp\BroCode_CSharp\13_switch_case\bin\Debug\13_switch_case.pdb
+G:\!CSharp\BroCode_CSharp\13_switch_case\obj\Debug\13_switch_case.exe
+G:\!CSharp\BroCode_CSharp\13_switch_case\obj\Debug\13_switch_case.pdb

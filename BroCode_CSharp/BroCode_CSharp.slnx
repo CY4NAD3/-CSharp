@@ -1,8 +1,16 @@
 <Solution>
-  <Project Path="01_02_MyFirstProgram/01_02_MyFirstProgram.csproj" />
-  <Project Path="03_Variables/03_Variables.csproj" />
-  <Project Path="04_Constants/04_Constants.csproj" />
-  <Project Path="05_TypeCasting/05_TypeCasting.csproj" />
-  <Project Path="06_UserInput/06_UserInput.csproj" />
-  <Project Path="07_ArithmeticOperations/07_ArithmeticOperations.csproj" />
+  <Project Path="01_02_MyFirstProgram/01_02_MyFirstProgram.csproj" Id="040b0e66-b0ea-4926-83ef-8cb78946d0e8" />
+  <Project Path="03_Variables/03_Variables.csproj" Id="8189f6fd-fbd2-408e-8ddd-7c07c5a0e931" />
+  <Project Path="04_Constants/04_Constants.csproj" Id="6b7a69fa-9dd4-4817-93df-b9ea1ecf2a6a" />
+  <Project Path="05_TypeCasting/05_TypeCasting.csproj" Id="f514a508-8d9f-4857-b0ec-2ad335aeb7f0" />
+  <Project Path="06_UserInput/06_UserInput.csproj" Id="aae2c2d0-0c7e-4708-b459-d492f9d03b64" />
+  <Project Path="07_ArithmeticOperations/07_ArithmeticOperations.csproj" Id="3b21d503-44c0-46ae-a8f4-3188b1cd6dae" />
+  <Project Path="08_MathClass/08_MathClass.csproj" Id="ace61b11-9152-4cf4-a388-196dd34b83d5" />
+  <Project Path="09_RandomNumbers/09_RandomNumbers.csproj" Id="f9575c49-8303-4521-a1b9-f9a504089dc4" />
+  <Project Path="10_HypotenuseCalculatorProgram/10_HypotenuseCalculatorProgram.csproj" Id="fcd41653-0ca4-4e44-8701-c8bf08ba203e" />
+  <Project Path="11_StringMethods/11_StringMethods.csproj" Id="e56f98ad-32d2-453f-97a0-d42719f87dcc" />
+  <Project Path="12_If_else/12_If_else.csproj" Id="ba49b502-b89e-4b91-b575-1fc18c70e105" />
+  <Project Path="13_switch_case/13_switch_case.csproj" Id="b35ca126-efea-419b-8998-81fd6d159819" />
+  <Project Path="14_LogicalOperators/14_LogicalOperators.csproj" Id="d6e1b511-ded8-4554-b7c5-1a92b64f5459" />
+  <Project Path="15_While_Loops/15_While_Loops.csproj" Id="2d5d4ef0-2ec7-434f-a9d1-d1700c2ffeb6" />
 </Solution>
