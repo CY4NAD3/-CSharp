@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "G:\\!CSharp\\BroCode_CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D6E1B511-DED8-4554-B7C5-1A92B64F5459}|14_LogicalOperators\\14_LogicalOperators.csproj|g:\\!csharp\\brocode_csharp\\14_logicaloperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6E1B511-DED8-4554-B7C5-1A92B64F5459}|14_LogicalOperators\\14_LogicalOperators.csproj|solutionrelative:14_logicaloperators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09AE89AF-E1CA-43A9-8A49-C2848F1C15C8}|16_For_Loops\\16_For_Loops.csproj|g:\\!csharp\\brocode_csharp\\16_for_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09AE89AF-E1CA-43A9-8A49-C2848F1C15C8}|16_For_Loops\\16_For_Loops.csproj|solutionrelative:16_for_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\14_LogicalOperators\\Program.cs",
-              "RelativeDocumentMoniker": "14_LogicalOperators\\Program.cs",
-              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\14_LogicalOperators\\Program.cs",
-              "RelativeToolTip": "14_LogicalOperators\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBwAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\16_For_Loops\\Program.cs",
+              "RelativeDocumentMoniker": "16_For_Loops\\Program.cs",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\16_For_Loops\\Program.cs",
+              "RelativeToolTip": "16_For_Loops\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T15:00:34.527Z",
+              "WhenOpened": "2026-03-10T17:24:42.454Z",
               "EditorCaption": ""
             }
           ]

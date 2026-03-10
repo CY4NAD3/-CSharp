@@ -1,0 +1,7 @@
+G:\!CSharp\BroCode_CSharp\15_While_Loops\bin\Debug\15_While_Loops.exe.config
+G:\!CSharp\BroCode_CSharp\15_While_Loops\bin\Debug\15_While_Loops.exe
+G:\!CSharp\BroCode_CSharp\15_While_Loops\bin\Debug\15_While_Loops.pdb
+G:\!CSharp\BroCode_CSharp\15_While_Loops\obj\Debug\15_While_Loops.csproj.AssemblyReference.cache
+G:\!CSharp\BroCode_CSharp\15_While_Loops\obj\Debug\15_While_Loops.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\15_While_Loops\obj\Debug\15_While_Loops.exe
+G:\!CSharp\BroCode_CSharp\15_While_Loops\obj\Debug\15_While_Loops.pdb

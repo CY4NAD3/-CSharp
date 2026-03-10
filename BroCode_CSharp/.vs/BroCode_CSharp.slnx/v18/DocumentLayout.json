@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "G:\\!CSharp\\BroCode_CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D5D4EF0-2EC7-434F-A9D1-D1700C2FFEB6}|15_While_Loops\\15_While_Loops.csproj|g:\\!csharp\\brocode_csharp\\15_while_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D5D4EF0-2EC7-434F-A9D1-D1700C2FFEB6}|15_While_Loops\\15_While_Loops.csproj|solutionrelative:15_while_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8291BD79-8478-4F54-BCF0-23D28BEF2050}|17_Nested_For_Loops\\17_Nested_For_Loops.csproj|g:\\!csharp\\brocode_csharp\\17_nested_for_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8291BD79-8478-4F54-BCF0-23D28BEF2050}|17_Nested_For_Loops\\17_Nested_For_Loops.csproj|solutionrelative:17_nested_for_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\15_While_Loops\\Program.cs",
-              "RelativeDocumentMoniker": "15_While_Loops\\Program.cs",
-              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\15_While_Loops\\Program.cs",
-              "RelativeToolTip": "15_While_Loops\\Program.cs",
+              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\17_Nested_For_Loops\\Program.cs",
+              "RelativeDocumentMoniker": "17_Nested_For_Loops\\Program.cs",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\17_Nested_For_Loops\\Program.cs",
+              "RelativeToolTip": "17_Nested_For_Loops\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T17:07:51.495Z",
+              "WhenOpened": "2026-03-10T17:35:02.811Z",
               "EditorCaption": ""
             }
           ]

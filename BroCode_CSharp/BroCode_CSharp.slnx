@@ -13,4 +13,6 @@
   <Project Path="13_switch_case/13_switch_case.csproj" Id="b35ca126-efea-419b-8998-81fd6d159819" />
   <Project Path="14_LogicalOperators/14_LogicalOperators.csproj" Id="d6e1b511-ded8-4554-b7c5-1a92b64f5459" />
   <Project Path="15_While_Loops/15_While_Loops.csproj" Id="2d5d4ef0-2ec7-434f-a9d1-d1700c2ffeb6" />
+  <Project Path="16_For_Loops/16_For_Loops.csproj" Id="09ae89af-e1ca-43a9-8a49-c2848f1c15c8" />
+  <Project Path="17_Nested_For_Loops/17_Nested_For_Loops.csproj" Id="8291bd79-8478-4f54-bcf0-23d28bef2050" />
 </Solution>
