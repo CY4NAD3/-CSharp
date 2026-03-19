@@ -1,0 +1,30 @@
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/18_Number_Guessing_Game/bin/Debug/net8.0/18_Number_Guessing_Game
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/18_Number_Guessing_Game/bin/Debug/net8.0/18_Number_Guessing_Game.deps.json
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/18_Number_Guessing_Game/bin/Debug/net8.0/18_Number_Guessing_Game.runtimeconfig.json
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/18_Number_Guessing_Game/bin/Debug/net8.0/18_Number_Guessing_Game.dll
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/18_Number_Guessing_Game/bin/Debug/net8.0/18_Number_Guessing_Game.pdb
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/18_Number_Guessing_Game/obj/Debug/net8.0/18_Number_Guessing_Game.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/18_Number_Guessing_Game/obj/Debug/net8.0/18_Number_Guessing_Game.AssemblyInfoInputs.cache
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/18_Number_Guessing_Game/obj/Debug/net8.0/18_Number_Guessing_Game.AssemblyInfo.cs
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/18_Number_Guessing_Game/obj/Debug/net8.0/18_Number_Guessing_Game.csproj.CoreCompileInputs.cache
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/18_Number_Guessing_Game/obj/Debug/net8.0/18_Number_Guessing_Game.sourcelink.json
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/18_Number_Guessing_Game/obj/Debug/net8.0/18_Number_Guessing_Game.dll
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/18_Number_Guessing_Game/obj/Debug/net8.0/refint/18_Number_Guessing_Game.dll
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/18_Number_Guessing_Game/obj/Debug/net8.0/18_Number_Guessing_Game.pdb
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/18_Number_Guessing_Game/obj/Debug/net8.0/18_Number_Guessing_Game.genruntimeconfig.cache
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/18_Number_Guessing_Game/obj/Debug/net8.0/ref/18_Number_Guessing_Game.dll
+G:\!CSharp\BroCode_CSharp\18_Number_Guessing_Game\bin\Debug\net8.0\18_Number_Guessing_Game.exe
+G:\!CSharp\BroCode_CSharp\18_Number_Guessing_Game\bin\Debug\net8.0\18_Number_Guessing_Game.deps.json
+G:\!CSharp\BroCode_CSharp\18_Number_Guessing_Game\bin\Debug\net8.0\18_Number_Guessing_Game.runtimeconfig.json
+G:\!CSharp\BroCode_CSharp\18_Number_Guessing_Game\bin\Debug\net8.0\18_Number_Guessing_Game.dll
+G:\!CSharp\BroCode_CSharp\18_Number_Guessing_Game\bin\Debug\net8.0\18_Number_Guessing_Game.pdb
+G:\!CSharp\BroCode_CSharp\18_Number_Guessing_Game\obj\Debug\net8.0\18_Number_Guessing_Game.GeneratedMSBuildEditorConfig.editorconfig
+G:\!CSharp\BroCode_CSharp\18_Number_Guessing_Game\obj\Debug\net8.0\18_Number_Guessing_Game.AssemblyInfoInputs.cache
+G:\!CSharp\BroCode_CSharp\18_Number_Guessing_Game\obj\Debug\net8.0\18_Number_Guessing_Game.AssemblyInfo.cs
+G:\!CSharp\BroCode_CSharp\18_Number_Guessing_Game\obj\Debug\net8.0\18_Number_Guessing_Game.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\18_Number_Guessing_Game\obj\Debug\net8.0\18_Number_Guessing_Game.sourcelink.json
+G:\!CSharp\BroCode_CSharp\18_Number_Guessing_Game\obj\Debug\net8.0\18_Number_Guessing_Game.dll
+G:\!CSharp\BroCode_CSharp\18_Number_Guessing_Game\obj\Debug\net8.0\refint\18_Number_Guessing_Game.dll
+G:\!CSharp\BroCode_CSharp\18_Number_Guessing_Game\obj\Debug\net8.0\18_Number_Guessing_Game.pdb
+G:\!CSharp\BroCode_CSharp\18_Number_Guessing_Game\obj\Debug\net8.0\18_Number_Guessing_Game.genruntimeconfig.cache
+G:\!CSharp\BroCode_CSharp\18_Number_Guessing_Game\obj\Debug\net8.0\ref\18_Number_Guessing_Game.dll

@@ -1,0 +1,16 @@
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/13_switch_case/bin/Debug/net8.0/13_switch_case
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/13_switch_case/bin/Debug/net8.0/13_switch_case.dll.config
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/13_switch_case/bin/Debug/net8.0/13_switch_case.deps.json
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/13_switch_case/bin/Debug/net8.0/13_switch_case.runtimeconfig.json
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/13_switch_case/bin/Debug/net8.0/13_switch_case.dll
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/13_switch_case/bin/Debug/net8.0/13_switch_case.pdb
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/13_switch_case/obj/Debug/net8.0/13_switch_case.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/13_switch_case/obj/Debug/net8.0/13_switch_case.AssemblyInfoInputs.cache
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/13_switch_case/obj/Debug/net8.0/13_switch_case.AssemblyInfo.cs
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/13_switch_case/obj/Debug/net8.0/13_switch_case.csproj.CoreCompileInputs.cache
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/13_switch_case/obj/Debug/net8.0/13_switch_case.sourcelink.json
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/13_switch_case/obj/Debug/net8.0/13_switch_case.dll
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/13_switch_case/obj/Debug/net8.0/refint/13_switch_case.dll
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/13_switch_case/obj/Debug/net8.0/13_switch_case.pdb
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/13_switch_case/obj/Debug/net8.0/13_switch_case.genruntimeconfig.cache
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/13_switch_case/obj/Debug/net8.0/ref/13_switch_case.dll

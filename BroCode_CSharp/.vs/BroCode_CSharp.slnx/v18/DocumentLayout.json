@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "G:\\!CSharp\\BroCode_CSharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{06522F6E-4CBB-B83E-9D51-26F57F6E569E}|18_Number_Guessing_Game\\18_Number_Guessing_Game.csproj|g:\\!csharp\\brocode_csharp\\18_number_guessing_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06522F6E-4CBB-B83E-9D51-26F57F6E569E}|18_Number_Guessing_Game\\18_Number_Guessing_Game.csproj|solutionrelative:18_number_guessing_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8291BD79-8478-4F54-BCF0-23D28BEF2050}|17_Nested_For_Loops\\17_Nested_For_Loops.csproj|g:\\!csharp\\brocode_csharp\\17_nested_for_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8291BD79-8478-4F54-BCF0-23D28BEF2050}|17_Nested_For_Loops\\17_Nested_For_Loops.csproj|solutionrelative:17_nested_for_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,13 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\18_Number_Guessing_Game\\Program.cs",
+              "RelativeDocumentMoniker": "18_Number_Guessing_Game\\Program.cs",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\18_Number_Guessing_Game\\Program.cs",
+              "RelativeToolTip": "18_Number_Guessing_Game\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T19:44:17.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\17_Nested_For_Loops\\Program.cs",
               "RelativeDocumentMoniker": "17_Nested_For_Loops\\Program.cs",
               "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\17_Nested_For_Loops\\Program.cs",
               "RelativeToolTip": "17_Nested_For_Loops\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T17:35:02.811Z",
+              "WhenOpened": "2026-03-18T19:42:16.337Z",
               "EditorCaption": ""
             }
           ]

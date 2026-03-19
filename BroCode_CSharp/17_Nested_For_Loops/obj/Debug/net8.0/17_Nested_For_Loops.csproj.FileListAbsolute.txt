@@ -1,0 +1,32 @@
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/17_Nested_For_Loops/bin/Debug/net8.0/17_Nested_For_Loops
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/17_Nested_For_Loops/bin/Debug/net8.0/17_Nested_For_Loops.dll.config
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/17_Nested_For_Loops/bin/Debug/net8.0/17_Nested_For_Loops.deps.json
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/17_Nested_For_Loops/bin/Debug/net8.0/17_Nested_For_Loops.runtimeconfig.json
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/17_Nested_For_Loops/bin/Debug/net8.0/17_Nested_For_Loops.dll
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/17_Nested_For_Loops/bin/Debug/net8.0/17_Nested_For_Loops.pdb
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/17_Nested_For_Loops/obj/Debug/net8.0/17_Nested_For_Loops.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/17_Nested_For_Loops/obj/Debug/net8.0/17_Nested_For_Loops.AssemblyInfoInputs.cache
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/17_Nested_For_Loops/obj/Debug/net8.0/17_Nested_For_Loops.AssemblyInfo.cs
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/17_Nested_For_Loops/obj/Debug/net8.0/17_Nested_For_Loops.csproj.CoreCompileInputs.cache
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/17_Nested_For_Loops/obj/Debug/net8.0/17_Nested_For_Loops.sourcelink.json
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/17_Nested_For_Loops/obj/Debug/net8.0/17_Nested_For_Loops.dll
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/17_Nested_For_Loops/obj/Debug/net8.0/refint/17_Nested_For_Loops.dll
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/17_Nested_For_Loops/obj/Debug/net8.0/17_Nested_For_Loops.pdb
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/17_Nested_For_Loops/obj/Debug/net8.0/17_Nested_For_Loops.genruntimeconfig.cache
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/17_Nested_For_Loops/obj/Debug/net8.0/ref/17_Nested_For_Loops.dll
+G:\!CSharp\BroCode_CSharp\17_Nested_For_Loops\bin\Debug\net8.0\17_Nested_For_Loops.exe
+G:\!CSharp\BroCode_CSharp\17_Nested_For_Loops\bin\Debug\net8.0\17_Nested_For_Loops.dll.config
+G:\!CSharp\BroCode_CSharp\17_Nested_For_Loops\bin\Debug\net8.0\17_Nested_For_Loops.deps.json
+G:\!CSharp\BroCode_CSharp\17_Nested_For_Loops\bin\Debug\net8.0\17_Nested_For_Loops.runtimeconfig.json
+G:\!CSharp\BroCode_CSharp\17_Nested_For_Loops\bin\Debug\net8.0\17_Nested_For_Loops.dll
+G:\!CSharp\BroCode_CSharp\17_Nested_For_Loops\bin\Debug\net8.0\17_Nested_For_Loops.pdb
+G:\!CSharp\BroCode_CSharp\17_Nested_For_Loops\obj\Debug\net8.0\17_Nested_For_Loops.GeneratedMSBuildEditorConfig.editorconfig
+G:\!CSharp\BroCode_CSharp\17_Nested_For_Loops\obj\Debug\net8.0\17_Nested_For_Loops.AssemblyInfoInputs.cache
+G:\!CSharp\BroCode_CSharp\17_Nested_For_Loops\obj\Debug\net8.0\17_Nested_For_Loops.AssemblyInfo.cs
+G:\!CSharp\BroCode_CSharp\17_Nested_For_Loops\obj\Debug\net8.0\17_Nested_For_Loops.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\17_Nested_For_Loops\obj\Debug\net8.0\17_Nested_For_Loops.sourcelink.json
+G:\!CSharp\BroCode_CSharp\17_Nested_For_Loops\obj\Debug\net8.0\17_Nested_For_Loops.dll
+G:\!CSharp\BroCode_CSharp\17_Nested_For_Loops\obj\Debug\net8.0\refint\17_Nested_For_Loops.dll
+G:\!CSharp\BroCode_CSharp\17_Nested_For_Loops\obj\Debug\net8.0\17_Nested_For_Loops.pdb
+G:\!CSharp\BroCode_CSharp\17_Nested_For_Loops\obj\Debug\net8.0\17_Nested_For_Loops.genruntimeconfig.cache
+G:\!CSharp\BroCode_CSharp\17_Nested_For_Loops\obj\Debug\net8.0\ref\17_Nested_For_Loops.dll

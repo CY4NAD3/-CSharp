@@ -1,0 +1,16 @@
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/16_For_Loops/bin/Debug/net8.0/16_For_Loops
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/16_For_Loops/bin/Debug/net8.0/16_For_Loops.dll.config
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/16_For_Loops/bin/Debug/net8.0/16_For_Loops.deps.json
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/16_For_Loops/bin/Debug/net8.0/16_For_Loops.runtimeconfig.json
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/16_For_Loops/bin/Debug/net8.0/16_For_Loops.dll
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/16_For_Loops/bin/Debug/net8.0/16_For_Loops.pdb
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/16_For_Loops/obj/Debug/net8.0/16_For_Loops.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/16_For_Loops/obj/Debug/net8.0/16_For_Loops.AssemblyInfoInputs.cache
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/16_For_Loops/obj/Debug/net8.0/16_For_Loops.AssemblyInfo.cs
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/16_For_Loops/obj/Debug/net8.0/16_For_Loops.csproj.CoreCompileInputs.cache
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/16_For_Loops/obj/Debug/net8.0/16_For_Loops.sourcelink.json
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/16_For_Loops/obj/Debug/net8.0/16_For_Loops.dll
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/16_For_Loops/obj/Debug/net8.0/refint/16_For_Loops.dll
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/16_For_Loops/obj/Debug/net8.0/16_For_Loops.pdb
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/16_For_Loops/obj/Debug/net8.0/16_For_Loops.genruntimeconfig.cache
+/run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/16_For_Loops/obj/Debug/net8.0/ref/16_For_Loops.dll
