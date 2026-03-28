@@ -1,0 +1,7 @@
+G:\!CSharp\BroCode_CSharp\27_ExceptionHandling\bin\Debug\27_ExceptionHandling.exe.config
+G:\!CSharp\BroCode_CSharp\27_ExceptionHandling\bin\Debug\27_ExceptionHandling.exe
+G:\!CSharp\BroCode_CSharp\27_ExceptionHandling\bin\Debug\27_ExceptionHandling.pdb
+G:\!CSharp\BroCode_CSharp\27_ExceptionHandling\obj\Debug\27_ExceptionHandling.csproj.AssemblyReference.cache
+G:\!CSharp\BroCode_CSharp\27_ExceptionHandling\obj\Debug\27_ExceptionHandling.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\27_ExceptionHandling\obj\Debug\27_ExceptionHandling.exe
+G:\!CSharp\BroCode_CSharp\27_ExceptionHandling\obj\Debug\27_ExceptionHandling.pdb

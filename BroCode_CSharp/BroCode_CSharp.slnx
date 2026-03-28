@@ -21,4 +21,7 @@
   <Project Path="21_Arrays/21_22_Arrays.csproj" Id="7eb88583-de89-4192-abc3-e38377f8e706" />
   <Project Path="23_methods/23_methods.csproj" Id="ed31ed5c-1c6a-40d4-997c-4a254e510b0a" />
   <Project Path="24_ReturnKeyWord/24_ReturnKeyWord.csproj" Id="34a6a99d-b930-4d64-b644-3e92a579ed86" />
+  <Project Path="25_MethodOverloading/25_MethodOverloading.csproj" Id="ee39e9ab-c1c5-4c9d-a442-d4727a334a55" />
+  <Project Path="26_ParamsKeyword/26_ParamsKeyword.csproj" Id="9dfb1c09-fd1c-4ebc-ad93-b20b55f29a75" />
+  <Project Path="27_ExceptionHandling/27_ExceptionHandling.csproj" Id="fb3de7c1-fe3f-4fd8-ba9c-34312a1ec4f4" />
 </Solution>

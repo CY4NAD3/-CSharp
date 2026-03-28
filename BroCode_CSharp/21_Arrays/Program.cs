@@ -20,7 +20,7 @@ namespace _21_22_Arrays
             cars[1] = "Toyota";
             cars[2] = "Honda";
 
-            Console.WriteLine(cars[0]);
+            //Console.WriteLine(cars[0]);
 
             for (int i = 1; i < cars.Length; i++) { 
                 Console.WriteLine(cars[i]);
