@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "G:\\!CSharp\\BroCode_CSharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06522F6E-4CBB-B83E-9D51-26F57F6E569E}|18_Number_Guessing_Game\\18_Number_Guessing_Game.csproj|g:\\!csharp\\brocode_csharp\\18_number_guessing_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06522F6E-4CBB-B83E-9D51-26F57F6E569E}|18_Number_Guessing_Game\\18_Number_Guessing_Game.csproj|solutionrelative:18_number_guessing_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{34A6A99D-B930-4D64-B644-3E92A579ED86}|24_ReturnKeyWord\\24_ReturnKeyWord.csproj|g:\\!csharp\\brocode_csharp\\24_returnkeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34A6A99D-B930-4D64-B644-3E92A579ED86}|24_ReturnKeyWord\\24_ReturnKeyWord.csproj|solutionrelative:24_returnkeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8291BD79-8478-4F54-BCF0-23D28BEF2050}|17_Nested_For_Loops\\17_Nested_For_Loops.csproj|g:\\!csharp\\brocode_csharp\\17_nested_for_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8291BD79-8478-4F54-BCF0-23D28BEF2050}|17_Nested_For_Loops\\17_Nested_For_Loops.csproj|solutionrelative:17_nested_for_loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED31ED5C-1C6A-40D4-997C-4A254E510B0A}|23_methods\\23_methods.csproj|g:\\!csharp\\brocode_csharp\\23_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED31ED5C-1C6A-40D4-997C-4A254E510B0A}|23_methods\\23_methods.csproj|solutionrelative:23_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B7A69FA-9DD4-4817-93DF-B9EA1ECF2A6A}|04_Constants\\04_Constants.csproj|g:\\!csharp\\brocode_csharp\\04_constants\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B7A69FA-9DD4-4817-93DF-B9EA1ECF2A6A}|04_Constants\\04_Constants.csproj|solutionrelative:04_constants\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB88583-DE89-4192-ABC3-E38377F8E706}|21_Arrays\\21_Arrays.csproj|g:\\!csharp\\brocode_csharp\\21_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB88583-DE89-4192-ABC3-E38377F8E706}|21_Arrays\\21_Arrays.csproj|solutionrelative:21_arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20686900-3AD4-4130-8DCC-A01F8AE37244}|18_NumberGuessingGame\\18_NumberGuessingGame.csproj|g:\\!csharp\\brocode_csharp\\18_numberguessinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20686900-3AD4-4130-8DCC-A01F8AE37244}|18_NumberGuessingGame\\18_NumberGuessingGame.csproj|solutionrelative:18_numberguessinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D733DBF5-94A4-4898-BD11-CCAB02BEDE8D}|20_CalculatorProgram\\20_CalculatorProgram.csproj|g:\\!csharp\\brocode_csharp\\20_calculatorprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D733DBF5-94A4-4898-BD11-CCAB02BEDE8D}|20_CalculatorProgram\\20_CalculatorProgram.csproj|solutionrelative:20_calculatorprogram\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F514A508-8D9F-4857-B0EC-2AD335AEB7F0}|05_TypeCasting\\05_TypeCasting.csproj|g:\\!csharp\\brocode_csharp\\05_typecasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F514A508-8D9F-4857-B0EC-2AD335AEB7F0}|05_TypeCasting\\05_TypeCasting.csproj|solutionrelative:05_typecasting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACE61B11-9152-4CF4-A388-196DD34B83D5}|08_MathClass\\08_MathClass.csproj|g:\\!csharp\\brocode_csharp\\08_mathclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACE61B11-9152-4CF4-A388-196DD34B83D5}|08_MathClass\\08_MathClass.csproj|solutionrelative:08_mathclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +48,104 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\18_Number_Guessing_Game\\Program.cs",
-              "RelativeDocumentMoniker": "18_Number_Guessing_Game\\Program.cs",
-              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\18_Number_Guessing_Game\\Program.cs",
-              "RelativeToolTip": "18_Number_Guessing_Game\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\24_ReturnKeyWord\\Program.cs",
+              "RelativeDocumentMoniker": "24_ReturnKeyWord\\Program.cs",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\24_ReturnKeyWord\\Program.cs",
+              "RelativeToolTip": "24_ReturnKeyWord\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T19:44:17.487Z",
+              "WhenOpened": "2026-03-28T14:50:12.64Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\17_Nested_For_Loops\\Program.cs",
-              "RelativeDocumentMoniker": "17_Nested_For_Loops\\Program.cs",
-              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\17_Nested_For_Loops\\Program.cs",
-              "RelativeToolTip": "17_Nested_For_Loops\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\23_methods\\Program.cs",
+              "RelativeDocumentMoniker": "23_methods\\Program.cs",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\23_methods\\Program.cs",
+              "RelativeToolTip": "23_methods\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T19:42:16.337Z",
+              "WhenOpened": "2026-03-28T14:11:02.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\21_Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "21_Arrays\\Program.cs",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\21_Arrays\\Program.cs",
+              "RelativeToolTip": "21_Arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T12:53:47.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\20_CalculatorProgram\\Program.cs",
+              "RelativeDocumentMoniker": "20_CalculatorProgram\\Program.cs",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\20_CalculatorProgram\\Program.cs",
+              "RelativeToolTip": "20_CalculatorProgram\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T09:25:23.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\18_NumberGuessingGame\\Program.cs",
+              "RelativeDocumentMoniker": "18_NumberGuessingGame\\Program.cs",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\18_NumberGuessingGame\\Program.cs",
+              "RelativeToolTip": "18_NumberGuessingGame\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T12:22:49.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\04_Constants\\Program.cs",
+              "RelativeDocumentMoniker": "04_Constants\\Program.cs",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\04_Constants\\Program.cs",
+              "RelativeToolTip": "04_Constants\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T14:12:27.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\05_TypeCasting\\Program.cs",
+              "RelativeDocumentMoniker": "05_TypeCasting\\Program.cs",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\05_TypeCasting\\Program.cs",
+              "RelativeToolTip": "05_TypeCasting\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwBIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T12:04:49.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\08_MathClass\\Program.cs",
+              "RelativeDocumentMoniker": "08_MathClass\\Program.cs",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\08_MathClass\\Program.cs",
+              "RelativeToolTip": "08_MathClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T12:08:03.136Z",
               "EditorCaption": ""
             }
           ]

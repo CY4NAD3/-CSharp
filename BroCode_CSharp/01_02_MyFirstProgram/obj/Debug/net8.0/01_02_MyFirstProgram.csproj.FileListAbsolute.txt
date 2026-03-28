@@ -14,3 +14,19 @@
 /run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/01_02_MyFirstProgram/obj/Debug/net8.0/01_02_MyFirstProgram.pdb
 /run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/01_02_MyFirstProgram/obj/Debug/net8.0/01_02_MyFirstProgram.genruntimeconfig.cache
 /run/media/azraf/SSD samsung/!CSharp/BroCode_CSharp/01_02_MyFirstProgram/obj/Debug/net8.0/ref/01_02_MyFirstProgram.dll
+G:\!CSharp\BroCode_CSharp\01_02_MyFirstProgram\bin\Debug\net8.0\01_02_MyFirstProgram.exe
+G:\!CSharp\BroCode_CSharp\01_02_MyFirstProgram\bin\Debug\net8.0\01_02_MyFirstProgram.dll.config
+G:\!CSharp\BroCode_CSharp\01_02_MyFirstProgram\bin\Debug\net8.0\01_02_MyFirstProgram.deps.json
+G:\!CSharp\BroCode_CSharp\01_02_MyFirstProgram\bin\Debug\net8.0\01_02_MyFirstProgram.runtimeconfig.json
+G:\!CSharp\BroCode_CSharp\01_02_MyFirstProgram\bin\Debug\net8.0\01_02_MyFirstProgram.dll
+G:\!CSharp\BroCode_CSharp\01_02_MyFirstProgram\bin\Debug\net8.0\01_02_MyFirstProgram.pdb
+G:\!CSharp\BroCode_CSharp\01_02_MyFirstProgram\obj\Debug\net8.0\01_02_MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+G:\!CSharp\BroCode_CSharp\01_02_MyFirstProgram\obj\Debug\net8.0\01_02_MyFirstProgram.AssemblyInfoInputs.cache
+G:\!CSharp\BroCode_CSharp\01_02_MyFirstProgram\obj\Debug\net8.0\01_02_MyFirstProgram.AssemblyInfo.cs
+G:\!CSharp\BroCode_CSharp\01_02_MyFirstProgram\obj\Debug\net8.0\01_02_MyFirstProgram.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\01_02_MyFirstProgram\obj\Debug\net8.0\01_02_MyFirstProgram.sourcelink.json
+G:\!CSharp\BroCode_CSharp\01_02_MyFirstProgram\obj\Debug\net8.0\01_02_MyFirstProgram.dll
+G:\!CSharp\BroCode_CSharp\01_02_MyFirstProgram\obj\Debug\net8.0\refint\01_02_MyFirstProgram.dll
+G:\!CSharp\BroCode_CSharp\01_02_MyFirstProgram\obj\Debug\net8.0\01_02_MyFirstProgram.pdb
+G:\!CSharp\BroCode_CSharp\01_02_MyFirstProgram\obj\Debug\net8.0\01_02_MyFirstProgram.genruntimeconfig.cache
+G:\!CSharp\BroCode_CSharp\01_02_MyFirstProgram\obj\Debug\net8.0\ref\01_02_MyFirstProgram.dll

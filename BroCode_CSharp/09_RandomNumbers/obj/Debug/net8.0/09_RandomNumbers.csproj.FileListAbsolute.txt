@@ -1,0 +1,16 @@
+G:\!CSharp\BroCode_CSharp\09_RandomNumbers\bin\Debug\net8.0\09_RandomNumbers.exe
+G:\!CSharp\BroCode_CSharp\09_RandomNumbers\bin\Debug\net8.0\09_RandomNumbers.dll.config
+G:\!CSharp\BroCode_CSharp\09_RandomNumbers\bin\Debug\net8.0\09_RandomNumbers.deps.json
+G:\!CSharp\BroCode_CSharp\09_RandomNumbers\bin\Debug\net8.0\09_RandomNumbers.runtimeconfig.json
+G:\!CSharp\BroCode_CSharp\09_RandomNumbers\bin\Debug\net8.0\09_RandomNumbers.dll
+G:\!CSharp\BroCode_CSharp\09_RandomNumbers\bin\Debug\net8.0\09_RandomNumbers.pdb
+G:\!CSharp\BroCode_CSharp\09_RandomNumbers\obj\Debug\net8.0\09_RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+G:\!CSharp\BroCode_CSharp\09_RandomNumbers\obj\Debug\net8.0\09_RandomNumbers.AssemblyInfoInputs.cache
+G:\!CSharp\BroCode_CSharp\09_RandomNumbers\obj\Debug\net8.0\09_RandomNumbers.AssemblyInfo.cs
+G:\!CSharp\BroCode_CSharp\09_RandomNumbers\obj\Debug\net8.0\09_RandomNumbers.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\09_RandomNumbers\obj\Debug\net8.0\09_RandomNumbers.sourcelink.json
+G:\!CSharp\BroCode_CSharp\09_RandomNumbers\obj\Debug\net8.0\09_RandomNumbers.dll
+G:\!CSharp\BroCode_CSharp\09_RandomNumbers\obj\Debug\net8.0\refint\09_RandomNumbers.dll
+G:\!CSharp\BroCode_CSharp\09_RandomNumbers\obj\Debug\net8.0\09_RandomNumbers.pdb
+G:\!CSharp\BroCode_CSharp\09_RandomNumbers\obj\Debug\net8.0\09_RandomNumbers.genruntimeconfig.cache
+G:\!CSharp\BroCode_CSharp\09_RandomNumbers\obj\Debug\net8.0\ref\09_RandomNumbers.dll

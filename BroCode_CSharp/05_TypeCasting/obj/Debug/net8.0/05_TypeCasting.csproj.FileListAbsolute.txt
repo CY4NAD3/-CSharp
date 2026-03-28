@@ -1,0 +1,16 @@
+G:\!CSharp\BroCode_CSharp\05_TypeCasting\bin\Debug\net8.0\05_TypeCasting.exe
+G:\!CSharp\BroCode_CSharp\05_TypeCasting\bin\Debug\net8.0\05_TypeCasting.dll.config
+G:\!CSharp\BroCode_CSharp\05_TypeCasting\bin\Debug\net8.0\05_TypeCasting.deps.json
+G:\!CSharp\BroCode_CSharp\05_TypeCasting\bin\Debug\net8.0\05_TypeCasting.runtimeconfig.json
+G:\!CSharp\BroCode_CSharp\05_TypeCasting\bin\Debug\net8.0\05_TypeCasting.dll
+G:\!CSharp\BroCode_CSharp\05_TypeCasting\bin\Debug\net8.0\05_TypeCasting.pdb
+G:\!CSharp\BroCode_CSharp\05_TypeCasting\obj\Debug\net8.0\05_TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+G:\!CSharp\BroCode_CSharp\05_TypeCasting\obj\Debug\net8.0\05_TypeCasting.AssemblyInfoInputs.cache
+G:\!CSharp\BroCode_CSharp\05_TypeCasting\obj\Debug\net8.0\05_TypeCasting.AssemblyInfo.cs
+G:\!CSharp\BroCode_CSharp\05_TypeCasting\obj\Debug\net8.0\05_TypeCasting.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\05_TypeCasting\obj\Debug\net8.0\05_TypeCasting.sourcelink.json
+G:\!CSharp\BroCode_CSharp\05_TypeCasting\obj\Debug\net8.0\05_TypeCasting.dll
+G:\!CSharp\BroCode_CSharp\05_TypeCasting\obj\Debug\net8.0\refint\05_TypeCasting.dll
+G:\!CSharp\BroCode_CSharp\05_TypeCasting\obj\Debug\net8.0\05_TypeCasting.pdb
+G:\!CSharp\BroCode_CSharp\05_TypeCasting\obj\Debug\net8.0\05_TypeCasting.genruntimeconfig.cache
+G:\!CSharp\BroCode_CSharp\05_TypeCasting\obj\Debug\net8.0\ref\05_TypeCasting.dll

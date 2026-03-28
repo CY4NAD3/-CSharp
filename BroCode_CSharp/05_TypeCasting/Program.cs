@@ -16,7 +16,7 @@ namespace _05_TypeCasting
             //               Different data types can do different things
 
             double a = 3.50;
-            int b1 = Convert.ToInt32(a); //(Round) Convert Methods are
+            int b1 = Convert.ToInt32(a); //(Round) Convert Methods are .5 theke calc hoi
                                          //used to convert a data type to another data type
             int b2 = (int)a; //(Trunc)explicit casting 
                              //(manually converting a data type to another data type)
