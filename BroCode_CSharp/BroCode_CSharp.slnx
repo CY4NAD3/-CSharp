@@ -24,4 +24,5 @@
   <Project Path="25_MethodOverloading/25_MethodOverloading.csproj" Id="ee39e9ab-c1c5-4c9d-a442-d4727a334a55" />
   <Project Path="26_ParamsKeyword/26_ParamsKeyword.csproj" Id="9dfb1c09-fd1c-4ebc-ad93-b20b55f29a75" />
   <Project Path="27_ExceptionHandling/27_ExceptionHandling.csproj" Id="fb3de7c1-fe3f-4fd8-ba9c-34312a1ec4f4" />
+  <Project Path="28_ConditionalOperator/28_ConditionalOperator.csproj" Id="db126b21-a922-497a-9237-3332f5f9ba8c" />
 </Solution>
