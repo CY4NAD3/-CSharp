@@ -25,4 +25,23 @@
   <Project Path="26_ParamsKeyword/26_ParamsKeyword.csproj" Id="9dfb1c09-fd1c-4ebc-ad93-b20b55f29a75" />
   <Project Path="27_ExceptionHandling/27_ExceptionHandling.csproj" Id="fb3de7c1-fe3f-4fd8-ba9c-34312a1ec4f4" />
   <Project Path="28_ConditionalOperator/28_ConditionalOperator.csproj" Id="db126b21-a922-497a-9237-3332f5f9ba8c" />
+  <Project Path="29_StringInterpolation/29_StringInterpolation.csproj" Id="b6e961da-0824-42fb-ba3d-2e7e17cfaeab" />
+  <Project Path="30_1_JaggedArrays_LearnFromGPT/30_1_JaggedArrays_LearnFromGPT.csproj" Id="cbaef072-ec1a-48c1-a381-0f5525b256f3" />
+  <Project Path="30_MultidimentionalArrays/30_MultidimentionalArrays.csproj" Id="d70f1458-a83c-48e6-869f-ff602a04db89" />
+  <Project Path="31_Classes/31_Classes.csproj" Id="7d515fe1-4610-4eb3-8889-69fd02b16bb9" />
+  <Project Path="32_Objects/32_Objects.csproj" Id="9ba534b0-e1e5-4691-bb07-de2bf8ce430c" />
+  <Project Path="33_1_Constructors/33_1_Constructors.csproj" Id="e10f9361-bb5c-46a1-a709-c987671e5f91" />
+  <Project Path="33_Constructors/33_Constructors.csproj" Id="0ebc4dde-7443-4453-a516-08e512f44af7" />
+  <Project Path="34_StaticModifier/34_StaticModifier.csproj" Id="a34481f7-6fba-407b-8421-1fd4c5bae2fd" />
+  <Project Path="35_OverloadedConstructors/35_OverloadedConstructors.csproj" Id="73b5da97-80f2-4b68-b0bf-1a3426a43167" />
+  <Project Path="36_Inheritance/36_Inheritance.csproj" Id="f3eda2e3-57f9-4f9a-b9c6-d8e7121305a9" />
+  <Project Path="37_AbstractClasses/37_AbstractClasses.csproj" Id="10438278-6ef7-4374-a33e-633bb912c9f9" />
+  <Project Path="38_ArrayOfObjects/38_ArrayOfObjects.csproj" Id="2305eb49-1236-4668-9f20-bc11fcdc15a6" />
+  <Project Path="39_1_ObjectsAsArguments/39_1_ObjectsAsArguments.csproj" Id="044b9444-8da7-4600-a6e7-3cf8bcccd1ce" />
+  <Project Path="39_ObjectsAsArguments/39_ObjectsAsArguments.csproj" Id="378ca7fe-0580-45ba-99c0-fc7c9de78974" />
+  <Project Path="40_MethodOverriding/40_MethodOverriding.csproj" Id="e27594a5-818c-4fd7-9d7e-a314fd14bfac" />
+  <Project Path="41_ToStringMethod/41_ToStringMethod.csproj" Id="a7ff255d-94b4-427f-946d-ced07f4955ec" />
+  <Project Path="42_Polymorphism/42_Polymorphism.csproj" Id="e3036507-cf52-41d7-8113-f2aa36f0f634" />
+  <Project Path="43_Interfaces/43_Interfaces.csproj" Id="790d70a9-8d5b-41a1-8805-dc438e65c9b8" />
+  <Project Path="44_Lists/44_Lists.csproj" Id="448c01d6-f57a-40ab-9855-1b248ed92717" />
 </Solution>

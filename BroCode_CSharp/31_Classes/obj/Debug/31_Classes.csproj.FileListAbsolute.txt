@@ -1,0 +1,7 @@
+G:\!CSharp\BroCode_CSharp\31_Classes\bin\Debug\31_Classes.exe.config
+G:\!CSharp\BroCode_CSharp\31_Classes\bin\Debug\31_Classes.exe
+G:\!CSharp\BroCode_CSharp\31_Classes\bin\Debug\31_Classes.pdb
+G:\!CSharp\BroCode_CSharp\31_Classes\obj\Debug\31_Classes.csproj.AssemblyReference.cache
+G:\!CSharp\BroCode_CSharp\31_Classes\obj\Debug\31_Classes.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\31_Classes\obj\Debug\31_Classes.exe
+G:\!CSharp\BroCode_CSharp\31_Classes\obj\Debug\31_Classes.pdb

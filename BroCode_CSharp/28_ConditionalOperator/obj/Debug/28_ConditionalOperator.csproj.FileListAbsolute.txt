@@ -1,0 +1,7 @@
+G:\!CSharp\BroCode_CSharp\28_ConditionalOperator\obj\Debug\28_ConditionalOperator.csproj.AssemblyReference.cache
+G:\!CSharp\BroCode_CSharp\28_ConditionalOperator\obj\Debug\28_ConditionalOperator.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\28_ConditionalOperator\bin\Debug\28_ConditionalOperator.exe.config
+G:\!CSharp\BroCode_CSharp\28_ConditionalOperator\bin\Debug\28_ConditionalOperator.exe
+G:\!CSharp\BroCode_CSharp\28_ConditionalOperator\bin\Debug\28_ConditionalOperator.pdb
+G:\!CSharp\BroCode_CSharp\28_ConditionalOperator\obj\Debug\28_ConditionalOperator.exe
+G:\!CSharp\BroCode_CSharp\28_ConditionalOperator\obj\Debug\28_ConditionalOperator.pdb

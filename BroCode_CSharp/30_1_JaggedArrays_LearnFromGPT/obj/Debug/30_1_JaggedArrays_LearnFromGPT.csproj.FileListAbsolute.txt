@@ -1,0 +1,7 @@
+G:\!CSharp\BroCode_CSharp\30_1_JaggedArrays_LearnFromGPT\obj\Debug\30_1_JaggedArrays_LearnFromGPT.csproj.AssemblyReference.cache
+G:\!CSharp\BroCode_CSharp\30_1_JaggedArrays_LearnFromGPT\obj\Debug\30_1_JaggedArrays_LearnFromGPT.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\30_1_JaggedArrays_LearnFromGPT\bin\Debug\30_1_JaggedArrays_LearnFromGPT.exe.config
+G:\!CSharp\BroCode_CSharp\30_1_JaggedArrays_LearnFromGPT\bin\Debug\30_1_JaggedArrays_LearnFromGPT.exe
+G:\!CSharp\BroCode_CSharp\30_1_JaggedArrays_LearnFromGPT\bin\Debug\30_1_JaggedArrays_LearnFromGPT.pdb
+G:\!CSharp\BroCode_CSharp\30_1_JaggedArrays_LearnFromGPT\obj\Debug\30_1_JaggedArrays_LearnFromGPT.exe
+G:\!CSharp\BroCode_CSharp\30_1_JaggedArrays_LearnFromGPT\obj\Debug\30_1_JaggedArrays_LearnFromGPT.pdb

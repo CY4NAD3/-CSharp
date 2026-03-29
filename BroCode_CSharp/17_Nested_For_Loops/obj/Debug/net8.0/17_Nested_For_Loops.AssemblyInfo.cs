@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("17_Nested_For_Loops")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c35eb0373e5e85ab9fa4a40497037dfb10380a06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed985e9915a3ec8a47117fc1a114a0746a77c58c")]
 [assembly: System.Reflection.AssemblyProductAttribute("17_Nested_For_Loops")]
 [assembly: System.Reflection.AssemblyTitleAttribute("17_Nested_For_Loops")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

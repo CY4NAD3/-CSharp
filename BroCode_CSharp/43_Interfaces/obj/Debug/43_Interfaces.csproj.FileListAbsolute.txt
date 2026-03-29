@@ -1,0 +1,7 @@
+G:\!CSharp\BroCode_CSharp\43_Interfaces\bin\Debug\43_Interfaces.exe.config
+G:\!CSharp\BroCode_CSharp\43_Interfaces\bin\Debug\43_Interfaces.exe
+G:\!CSharp\BroCode_CSharp\43_Interfaces\bin\Debug\43_Interfaces.pdb
+G:\!CSharp\BroCode_CSharp\43_Interfaces\obj\Debug\43_Interfaces.csproj.AssemblyReference.cache
+G:\!CSharp\BroCode_CSharp\43_Interfaces\obj\Debug\43_Interfaces.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\43_Interfaces\obj\Debug\43_Interfaces.exe
+G:\!CSharp\BroCode_CSharp\43_Interfaces\obj\Debug\43_Interfaces.pdb

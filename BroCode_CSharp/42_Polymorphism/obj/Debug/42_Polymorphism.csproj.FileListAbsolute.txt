@@ -1,0 +1,7 @@
+G:\!CSharp\BroCode_CSharp\42_Polymorphism\bin\Debug\42_Polymorphism.exe.config
+G:\!CSharp\BroCode_CSharp\42_Polymorphism\bin\Debug\42_Polymorphism.exe
+G:\!CSharp\BroCode_CSharp\42_Polymorphism\bin\Debug\42_Polymorphism.pdb
+G:\!CSharp\BroCode_CSharp\42_Polymorphism\obj\Debug\42_Polymorphism.csproj.AssemblyReference.cache
+G:\!CSharp\BroCode_CSharp\42_Polymorphism\obj\Debug\42_Polymorphism.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\42_Polymorphism\obj\Debug\42_Polymorphism.exe
+G:\!CSharp\BroCode_CSharp\42_Polymorphism\obj\Debug\42_Polymorphism.pdb

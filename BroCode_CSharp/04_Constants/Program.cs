@@ -15,7 +15,7 @@ namespace _04_Constants
 
             const double pi = 3.13159;
 
-            //pi = 420;
+            //pi = 420; //gives error
 
             Console.WriteLine(pi);
 

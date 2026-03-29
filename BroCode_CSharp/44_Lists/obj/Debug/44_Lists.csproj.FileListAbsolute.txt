@@ -1,0 +1,7 @@
+G:\!CSharp\BroCode_CSharp\44_Lists\bin\Debug\44_Lists.exe.config
+G:\!CSharp\BroCode_CSharp\44_Lists\bin\Debug\44_Lists.exe
+G:\!CSharp\BroCode_CSharp\44_Lists\bin\Debug\44_Lists.pdb
+G:\!CSharp\BroCode_CSharp\44_Lists\obj\Debug\44_Lists.csproj.AssemblyReference.cache
+G:\!CSharp\BroCode_CSharp\44_Lists\obj\Debug\44_Lists.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\44_Lists\obj\Debug\44_Lists.exe
+G:\!CSharp\BroCode_CSharp\44_Lists\obj\Debug\44_Lists.pdb

@@ -1,0 +1,7 @@
+G:\!CSharp\BroCode_CSharp\38_ArrayOfObjects\bin\Debug\38_ArrayOfObjects.exe.config
+G:\!CSharp\BroCode_CSharp\38_ArrayOfObjects\bin\Debug\38_ArrayOfObjects.exe
+G:\!CSharp\BroCode_CSharp\38_ArrayOfObjects\bin\Debug\38_ArrayOfObjects.pdb
+G:\!CSharp\BroCode_CSharp\38_ArrayOfObjects\obj\Debug\38_ArrayOfObjects.csproj.AssemblyReference.cache
+G:\!CSharp\BroCode_CSharp\38_ArrayOfObjects\obj\Debug\38_ArrayOfObjects.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\38_ArrayOfObjects\obj\Debug\38_ArrayOfObjects.exe
+G:\!CSharp\BroCode_CSharp\38_ArrayOfObjects\obj\Debug\38_ArrayOfObjects.pdb

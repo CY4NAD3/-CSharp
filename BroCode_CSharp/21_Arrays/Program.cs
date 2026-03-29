@@ -29,6 +29,7 @@ namespace _21_22_Arrays
             Console.WriteLine();
 
             cars[0] = "Tesla";
+
             foreach (string c in cars)
             {
                 Console.WriteLine(c);
