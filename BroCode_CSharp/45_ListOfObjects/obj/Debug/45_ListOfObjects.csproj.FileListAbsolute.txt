@@ -1,0 +1,7 @@
+G:\!CSharp\BroCode_CSharp\45_ListOfObjects\bin\Debug\45_ListOfObjects.exe.config
+G:\!CSharp\BroCode_CSharp\45_ListOfObjects\bin\Debug\45_ListOfObjects.exe
+G:\!CSharp\BroCode_CSharp\45_ListOfObjects\bin\Debug\45_ListOfObjects.pdb
+G:\!CSharp\BroCode_CSharp\45_ListOfObjects\obj\Debug\45_ListOfObjects.csproj.AssemblyReference.cache
+G:\!CSharp\BroCode_CSharp\45_ListOfObjects\obj\Debug\45_ListOfObjects.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\45_ListOfObjects\obj\Debug\45_ListOfObjects.exe
+G:\!CSharp\BroCode_CSharp\45_ListOfObjects\obj\Debug\45_ListOfObjects.pdb

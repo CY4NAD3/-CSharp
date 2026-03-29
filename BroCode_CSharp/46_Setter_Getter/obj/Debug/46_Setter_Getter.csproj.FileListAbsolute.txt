@@ -1,0 +1,7 @@
+G:\!CSharp\BroCode_CSharp\46_Setter_Getter\bin\Debug\46_Setter_Getter.exe.config
+G:\!CSharp\BroCode_CSharp\46_Setter_Getter\bin\Debug\46_Setter_Getter.exe
+G:\!CSharp\BroCode_CSharp\46_Setter_Getter\bin\Debug\46_Setter_Getter.pdb
+G:\!CSharp\BroCode_CSharp\46_Setter_Getter\obj\Debug\46_Setter_Getter.csproj.AssemblyReference.cache
+G:\!CSharp\BroCode_CSharp\46_Setter_Getter\obj\Debug\46_Setter_Getter.csproj.CoreCompileInputs.cache
+G:\!CSharp\BroCode_CSharp\46_Setter_Getter\obj\Debug\46_Setter_Getter.exe
+G:\!CSharp\BroCode_CSharp\46_Setter_Getter\obj\Debug\46_Setter_Getter.pdb

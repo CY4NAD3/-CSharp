@@ -3,15 +3,47 @@
   "WorkspaceRootPath": "G:\\!CSharp\\BroCode_CSharp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DC3E40D2-6E5D-4B99-8DF1-8EB76BA0DEFE}|50_Multithreading\\50_Multithreading.csproj|g:\\!csharp\\brocode_csharp\\50_multithreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC3E40D2-6E5D-4B99-8DF1-8EB76BA0DEFE}|50_Multithreading\\50_Multithreading.csproj|solutionrelative:50_multithreading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DAA574F-BE4A-4EC4-8D3C-1C1796214FEB}|49_Generics\\49_Generics.csproj|g:\\!csharp\\brocode_csharp\\49_generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DAA574F-BE4A-4EC4-8D3C-1C1796214FEB}|49_Generics\\49_Generics.csproj|solutionrelative:49_generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E3ED900-2081-4E16-9202-1F13A6759B03}|48_Enums\\48_Enums.csproj|g:\\!csharp\\brocode_csharp\\48_enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E3ED900-2081-4E16-9202-1F13A6759B03}|48_Enums\\48_Enums.csproj|solutionrelative:48_enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DFB1C09-FD1C-4EBC-AD93-B20B55F29A75}|26_ParamsKeyword\\26_ParamsKeyword.csproj|g:\\!csharp\\brocode_csharp\\26_paramskeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DFB1C09-FD1C-4EBC-AD93-B20B55F29A75}|26_ParamsKeyword\\26_ParamsKeyword.csproj|solutionrelative:26_paramskeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{448C01D6-F57A-40AB-9855-1B248ED92717}|44_Lists\\44_Lists.csproj|g:\\!csharp\\brocode_csharp\\44_lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{448C01D6-F57A-40AB-9855-1B248ED92717}|44_Lists\\44_Lists.csproj|solutionrelative:44_lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E27594A5-818C-4FD7-9D7E-A314FD14BFAC}|40_MethodOverriding\\40_MethodOverriding.csproj|g:\\!csharp\\brocode_csharp\\40_methodoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D5BA8B63-A67F-4B41-B175-0A79264DACA3}|45_ListOfObjects\\45_ListOfObjects.csproj|g:\\!csharp\\brocode_csharp\\45_listofobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5BA8B63-A67F-4B41-B175-0A79264DACA3}|45_ListOfObjects\\45_ListOfObjects.csproj|solutionrelative:45_listofobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD96CA2-F1FD-4380-AB76-309EC077E9A8}|46_Setter_Getter\\46_Setter_Getter.csproj|g:\\!csharp\\brocode_csharp\\46_setter_getter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD96CA2-F1FD-4380-AB76-309EC077E9A8}|46_Setter_Getter\\46_Setter_Getter.csproj|solutionrelative:46_setter_getter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{669BA7E1-7013-4B6B-B01E-922063070FEC}|47_AutoImplementedProperties\\47_AutoImplementedProperties.csproj|g:\\!csharp\\brocode_csharp\\47_autoimplementedproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{669BA7E1-7013-4B6B-B01E-922063070FEC}|47_AutoImplementedProperties\\47_AutoImplementedProperties.csproj|solutionrelative:47_autoimplementedproperties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7FF255D-94B4-427F-946D-CED07F4955EC}|41_ToStringMethod\\41_ToStringMethod.csproj|g:\\!csharp\\brocode_csharp\\41_tostringmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7FF255D-94B4-427F-946D-CED07F4955EC}|41_ToStringMethod\\41_ToStringMethod.csproj|solutionrelative:41_tostringmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27594A5-818C-4FD7-9D7E-A314FD14BFAC}|40_MethodOverriding\\40_MethodOverriding.csproj|G:\\!CSharp\\BroCode_CSharp\\40_methodoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E27594A5-818C-4FD7-9D7E-A314FD14BFAC}|40_MethodOverriding\\40_MethodOverriding.csproj|solutionrelative:40_methodoverriding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{790D70A9-8D5B-41A1-8805-DC438E65C9B8}|43_Interfaces\\43_Interfaces.csproj|g:\\!csharp\\brocode_csharp\\43_interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{790D70A9-8D5B-41A1-8805-DC438E65C9B8}|43_Interfaces\\43_Interfaces.csproj|G:\\!CSharp\\BroCode_CSharp\\43_interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{790D70A9-8D5B-41A1-8805-DC438E65C9B8}|43_Interfaces\\43_Interfaces.csproj|solutionrelative:43_interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,18 +60,96 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\50_Multithreading\\Program.cs",
+              "RelativeDocumentMoniker": "50_Multithreading\\Program.cs",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\50_Multithreading\\Program.cs",
+              "RelativeToolTip": "50_Multithreading\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T16:34:21.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\49_Generics\\Program.cs",
+              "RelativeDocumentMoniker": "49_Generics\\Program.cs",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\49_Generics\\Program.cs",
+              "RelativeToolTip": "49_Generics\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T16:22:19.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\48_Enums\\Program.cs",
+              "RelativeDocumentMoniker": "48_Enums\\Program.cs",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\48_Enums\\Program.cs",
+              "RelativeToolTip": "48_Enums\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowB8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T15:25:27.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\47_AutoImplementedProperties\\Program.cs",
+              "RelativeDocumentMoniker": "47_AutoImplementedProperties\\Program.cs",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\47_AutoImplementedProperties\\Program.cs",
+              "RelativeToolTip": "47_AutoImplementedProperties\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwBMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T14:38:19.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\46_Setter_Getter\\Program.cs",
+              "RelativeDocumentMoniker": "46_Setter_Getter\\Program.cs",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\46_Setter_Getter\\Program.cs",
+              "RelativeToolTip": "46_Setter_Getter\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T14:08:10.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\45_ListOfObjects\\Program.cs",
+              "RelativeDocumentMoniker": "45_ListOfObjects\\Program.cs",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\45_ListOfObjects\\Program.cs",
+              "RelativeToolTip": "45_ListOfObjects\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T13:56:36.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
               "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\44_Lists\\Program.cs",
               "RelativeDocumentMoniker": "44_Lists\\Program.cs",
-              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\44_Lists\\Program.cs*",
-              "RelativeToolTip": "44_Lists\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\44_Lists\\Program.cs",
+              "RelativeToolTip": "44_Lists\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwEwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T13:11:26.526Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\40_MethodOverriding\\Program.cs",
               "RelativeDocumentMoniker": "40_MethodOverriding\\Program.cs",
@@ -47,12 +157,11 @@
               "RelativeToolTip": "40_MethodOverriding\\Program.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T13:08:33.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-29T13:08:33.535Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\43_Interfaces\\Program.cs",
               "RelativeDocumentMoniker": "43_Interfaces\\Program.cs",
@@ -60,7 +169,32 @@
               "RelativeToolTip": "43_Interfaces\\Program.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAAuwDcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T12:33:29.649Z",
+              "WhenOpened": "2026-03-29T12:33:29.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\26_ParamsKeyword\\Program.cs",
+              "RelativeDocumentMoniker": "26_ParamsKeyword\\Program.cs",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\26_ParamsKeyword\\Program.cs",
+              "RelativeToolTip": "26_ParamsKeyword\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T16:21:13.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\!CSharp\\BroCode_CSharp\\41_ToStringMethod\\Program.cs",
+              "RelativeDocumentMoniker": "41_ToStringMethod\\Program.cs",
+              "ToolTip": "G:\\!CSharp\\BroCode_CSharp\\41_ToStringMethod\\Program.cs",
+              "RelativeToolTip": "41_ToStringMethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T14:03:15.997Z",
               "EditorCaption": ""
             }
           ]

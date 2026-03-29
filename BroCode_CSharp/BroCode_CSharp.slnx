@@ -44,4 +44,10 @@
   <Project Path="42_Polymorphism/42_Polymorphism.csproj" Id="e3036507-cf52-41d7-8113-f2aa36f0f634" />
   <Project Path="43_Interfaces/43_Interfaces.csproj" Id="790d70a9-8d5b-41a1-8805-dc438e65c9b8" />
   <Project Path="44_Lists/44_Lists.csproj" Id="448c01d6-f57a-40ab-9855-1b248ed92717" />
+  <Project Path="45_ListOfObjects/45_ListOfObjects.csproj" Id="d5ba8b63-a67f-4b41-b175-0a79264daca3" />
+  <Project Path="46_Setter_Getter/46_Setter_Getter.csproj" Id="ebd96ca2-f1fd-4380-ab76-309ec077e9a8" />
+  <Project Path="47_AutoImplementedProperties/47_AutoImplementedProperties.csproj" Id="669ba7e1-7013-4b6b-b01e-922063070fec" />
+  <Project Path="48_Enums/48_Enums.csproj" Id="4e3ed900-2081-4e16-9202-1f13a6759b03" />
+  <Project Path="49_Generics/49_Generics.csproj" Id="0daa574f-be4a-4ec4-8d3c-1c1796214feb" />
+  <Project Path="50_Multithreading/50_Multithreading.csproj" Id="dc3e40d2-6e5d-4b99-8df1-8eb76ba0defe" />
 </Solution>
