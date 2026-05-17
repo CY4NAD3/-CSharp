@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{038A257B-14F5-4614-B5F0-0D3703288952}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\windowsformsapp1\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{038A257B-14F5-4614-B5F0-0D3703288952}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\-csharp\\c_sharp_final_project\\projectfordefence\\c#_project_final_term_v.2.3\\gui\\windowsformsapp1\\windowsformsapp1\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{038A257B-14F5-4614-B5F0-0D3703288952}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -91,7 +91,7 @@
       "RelativeMoniker": "D:0:0:{038A257B-14F5-4614-B5F0-0D3703288952}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\chat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{038A257B-14F5-4614-B5F0-0D3703288952}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\-csharp\\c_sharp_final_project\\projectfordefence\\c#_project_final_term_v.2.3\\gui\\windowsformsapp1\\windowsformsapp1\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{038A257B-14F5-4614-B5F0-0D3703288952}|WindowsFormsApp1\\WindowsFormsApp1.csproj|D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\windowsformsapp1\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{038A257B-14F5-4614-B5F0-0D3703288952}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -122,12 +122,11 @@
               "Title": "RateTeamMate.cs",
               "DocumentMoniker": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\RateTeamMate.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\RateTeamMate.cs",
-              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\RateTeamMate.cs*",
-              "RelativeToolTip": "WindowsFormsApp1\\RateTeamMate.cs*",
+              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\RateTeamMate.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\RateTeamMate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T13:45:09.36Z"
             },
             {
               "$type": "Document",
@@ -135,11 +134,10 @@
               "Title": "RateTeamMate.cs [Design]",
               "DocumentMoniker": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\RateTeamMate.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\RateTeamMate.cs",
-              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\RateTeamMate.cs [Design]*",
-              "RelativeToolTip": "WindowsFormsApp1\\RateTeamMate.cs [Design]*",
+              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\RateTeamMate.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\RateTeamMate.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.693Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-17T13:45:09.693Z"
             },
             {
               "$type": "Document",
@@ -147,12 +145,11 @@
               "Title": "StudentLogin.cs",
               "DocumentMoniker": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\StudentLogin.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\StudentLogin.cs",
-              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\StudentLogin.cs*",
-              "RelativeToolTip": "WindowsFormsApp1\\StudentLogin.cs*",
+              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\StudentLogin.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\StudentLogin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.361Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T13:45:09.361Z"
             },
             {
               "$type": "Document",
@@ -160,11 +157,10 @@
               "Title": "StudentLogin.cs [Design]",
               "DocumentMoniker": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\StudentLogin.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\StudentLogin.cs",
-              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\StudentLogin.cs [Design]*",
-              "RelativeToolTip": "WindowsFormsApp1\\StudentLogin.cs [Design]*",
+              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\StudentLogin.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\StudentLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.696Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-17T13:45:09.696Z"
             },
             {
               "$type": "Document",
@@ -172,12 +168,11 @@
               "Title": "StudentRegistration.cs",
               "DocumentMoniker": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\StudentRegistration.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\StudentRegistration.cs",
-              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\StudentRegistration.cs*",
-              "RelativeToolTip": "WindowsFormsApp1\\StudentRegistration.cs*",
+              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\StudentRegistration.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\StudentRegistration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T13:45:09.362Z"
             },
             {
               "$type": "Document",
@@ -185,12 +180,11 @@
               "Title": "Update.cs",
               "DocumentMoniker": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Update.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Update.cs",
-              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Update.cs*",
-              "RelativeToolTip": "WindowsFormsApp1\\Update.cs*",
+              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Update.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Update.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T13:45:09.364Z"
             },
             {
               "$type": "Document",
@@ -198,11 +192,10 @@
               "Title": "StudentRegistration.cs [Design]",
               "DocumentMoniker": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\StudentRegistration.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\StudentRegistration.cs",
-              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\StudentRegistration.cs [Design]*",
-              "RelativeToolTip": "WindowsFormsApp1\\StudentRegistration.cs [Design]*",
+              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\StudentRegistration.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\StudentRegistration.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.695Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-17T13:45:09.695Z"
             },
             {
               "$type": "Document",
@@ -210,11 +203,10 @@
               "Title": "Update.cs [Design]",
               "DocumentMoniker": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Update.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Update.cs",
-              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Update.cs [Design]*",
-              "RelativeToolTip": "WindowsFormsApp1\\Update.cs [Design]*",
+              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Update.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Update.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.686Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-17T13:45:09.686Z"
             },
             {
               "$type": "Document",
@@ -251,8 +243,7 @@
               "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T13:45:09.697Z"
             },
             {
               "$type": "Document",
@@ -260,11 +251,10 @@
               "Title": "Profile.cs [Design]",
               "DocumentMoniker": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Profile.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Profile.cs",
-              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Profile.cs [Design]*",
-              "RelativeToolTip": "WindowsFormsApp1\\Profile.cs [Design]*",
+              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Profile.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Profile.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.691Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-17T13:45:09.691Z"
             },
             {
               "$type": "Document",
@@ -272,12 +262,11 @@
               "Title": "Profile.cs",
               "DocumentMoniker": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Profile.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Profile.cs",
-              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Profile.cs*",
-              "RelativeToolTip": "WindowsFormsApp1\\Profile.cs*",
+              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Profile.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Profile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T13:45:09.312Z"
             },
             {
               "$type": "Document",
@@ -289,8 +278,7 @@
               "RelativeToolTip": "WindowsFormsApp1\\PasswordChange.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T13:45:09.674Z"
             },
             {
               "$type": "Document",
@@ -298,11 +286,10 @@
               "Title": "HomeFeed.cs [Design]",
               "DocumentMoniker": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\HomeFeed.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\HomeFeed.cs",
-              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\HomeFeed.cs [Design]*",
-              "RelativeToolTip": "WindowsFormsApp1\\HomeFeed.cs [Design]*",
+              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\HomeFeed.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\HomeFeed.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.693Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-17T13:45:09.693Z"
             },
             {
               "$type": "Document",
@@ -310,12 +297,11 @@
               "Title": "HomeFeed.cs",
               "DocumentMoniker": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\HomeFeed.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\HomeFeed.cs",
-              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\HomeFeed.cs*",
-              "RelativeToolTip": "WindowsFormsApp1\\HomeFeed.cs*",
+              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\HomeFeed.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\HomeFeed.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.681Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T13:45:09.681Z"
             },
             {
               "$type": "Document",
@@ -323,11 +309,10 @@
               "Title": "Group.cs [Design]",
               "DocumentMoniker": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Group.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Group.cs",
-              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Group.cs [Design]*",
-              "RelativeToolTip": "WindowsFormsApp1\\Group.cs [Design]*",
+              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Group.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Group.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.688Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-17T13:45:09.688Z"
             },
             {
               "$type": "Document",
@@ -335,12 +320,11 @@
               "Title": "Group.cs",
               "DocumentMoniker": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Group.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Group.cs",
-              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Group.cs*",
-              "RelativeToolTip": "WindowsFormsApp1\\Group.cs*",
+              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Group.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Group.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T13:45:09.682Z"
             },
             {
               "$type": "Document",
@@ -348,11 +332,10 @@
               "Title": "Dashboard.cs [Design]",
               "DocumentMoniker": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Dashboard.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Dashboard.cs",
-              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Dashboard.cs [Design]*",
-              "RelativeToolTip": "WindowsFormsApp1\\Dashboard.cs [Design]*",
+              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Dashboard.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Dashboard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.687Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-17T13:45:09.687Z"
             },
             {
               "$type": "Document",
@@ -360,12 +343,11 @@
               "Title": "Dashboard.cs",
               "DocumentMoniker": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Dashboard.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Dashboard.cs",
-              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Dashboard.cs*",
-              "RelativeToolTip": "WindowsFormsApp1\\Dashboard.cs*",
+              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Dashboard.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Dashboard.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.683Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T13:45:09.683Z"
             },
             {
               "$type": "Document",
@@ -376,8 +358,7 @@
               "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\Chat.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp1\\Chat.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.69Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-17T13:45:09.69Z"
             },
             {
               "$type": "Document",
@@ -389,8 +370,7 @@
               "RelativeToolTip": "WindowsFormsApp1\\Chat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T13:45:09.685Z"
             },
             {
               "$type": "Document",
@@ -398,12 +378,11 @@
               "Title": "ChangePassword.cs",
               "DocumentMoniker": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\ChangePassword.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\ChangePassword.cs",
-              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\ChangePassword.cs*",
-              "RelativeToolTip": "WindowsFormsApp1\\ChangePassword.cs*",
+              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\ChangePassword.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\ChangePassword.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T13:45:09.684Z"
             },
             {
               "$type": "Document",
@@ -414,8 +393,7 @@
               "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\AdminLogin.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp1\\AdminLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.688Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-17T13:45:09.688Z"
             },
             {
               "$type": "Document",
@@ -427,8 +405,7 @@
               "RelativeToolTip": "WindowsFormsApp1\\AdminLogin.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-17T13:45:09.684Z"
             },
             {
               "$type": "Document",
@@ -436,15 +413,10 @@
               "Title": "ChangePassword.cs [Design]",
               "DocumentMoniker": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\ChangePassword.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\ChangePassword.cs",
-              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\ChangePassword.cs [Design]*",
-              "RelativeToolTip": "WindowsFormsApp1\\ChangePassword.cs [Design]*",
+              "ToolTip": "D:\\-CSharp\\C_Sharp_Final_Project\\ProjectForDefence\\C#_project_final_term_v.2.3\\GUI\\WindowsFormsApp1\\WindowsFormsApp1\\ChangePassword.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\ChangePassword.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-17T13:45:09.69Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2026-05-17T13:45:09.69Z"
             }
           ]
         }
