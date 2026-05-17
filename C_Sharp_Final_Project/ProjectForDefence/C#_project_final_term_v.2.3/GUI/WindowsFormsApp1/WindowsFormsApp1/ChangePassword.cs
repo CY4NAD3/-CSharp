@@ -7,7 +7,7 @@ namespace WindowsFormsApp1
     public partial class ChangePassword : Form
     {
         private string connectionString =
-            "data source=AZURE\\SQLEXPRESS; database=PeerSyncDB; integrated security=SSPI";
+            "data source=LEGION\\SQLEXPRESS; database=PeerSyncDB; integrated security=SSPI";
 
         public ChangePassword()
         {

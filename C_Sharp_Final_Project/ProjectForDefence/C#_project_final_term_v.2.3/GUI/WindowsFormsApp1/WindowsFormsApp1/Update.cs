@@ -14,7 +14,7 @@ namespace WindowsFormsApp1
 {
     public partial class Update : Form
     {
-        private string connectionString = "data source=AZURE\\SQLEXPRESS; database=PeerSyncDB; integrated security=SSPI";
+        private string connectionString = "data source=LEGION\\SQLEXPRESS; database=PeerSyncDB; integrated security=SSPI";
         private int userId;
 
         public Update(int userId)

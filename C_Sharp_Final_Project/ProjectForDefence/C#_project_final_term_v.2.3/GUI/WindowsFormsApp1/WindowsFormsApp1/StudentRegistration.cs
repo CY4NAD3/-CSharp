@@ -25,7 +25,7 @@ namespace WindowsFormsApp1
         
         private void RegistrationButton_Click(object sender, EventArgs e)
         {
-            string connectionString = "data source=AZURE\\SQLEXPRESS; database=PeerSyncDB; integrated security=SSPI";
+            string connectionString = "data source=LEGION\\SQLEXPRESS; database=PeerSyncDB; integrated security=SSPI";
 
             string name = nameTextBox.Text.Trim();
             string aiubId = aiubIdTextBox.Text.Trim();

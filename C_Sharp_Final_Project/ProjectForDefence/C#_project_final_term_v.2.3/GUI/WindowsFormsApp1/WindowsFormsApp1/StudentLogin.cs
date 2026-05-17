@@ -19,7 +19,7 @@ namespace WindowsFormsApp1
         public static string LoggedInAiubId = "";
         public static string LoggedInUserName = "";
 
-        private string connectionString = "data source=AZURE\\SQLEXPRESS; database=PeerSyncDB; integrated security=SSPI";
+        private string connectionString = "data source=LEGION\\SQLEXPRESS; database=PeerSyncDB; integrated security=SSPI";
 
         public StudentLogin()
         {
